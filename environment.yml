@@ -3,6 +3,9 @@ channels:
 packages:
  - jupyter-panel-proxy
 dependencies:
+  - rlp >=0.6.0
+  - python >= 3.9
+  - bokeh >=1.1.0
   - nbserverproxy
   - pyviz::param=1.9.0
   - pyviz::pyviz_comms=0.7.2
