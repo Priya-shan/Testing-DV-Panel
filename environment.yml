@@ -5,7 +5,6 @@ packages:
 dependencies:
   - python=3.9
   - bokeh=2.4.2
-  - testpath<0.4
   - nbserverproxy
   - pyviz::param=1.9.0
   - pyviz::pyviz_comms=0.7.2
@@ -30,7 +29,6 @@ dependencies:
   - eth-abi==2.1.1
   - eth-hash==0.3.2
   - eth-keyfile==0.5.1
-  - eth-utils==1.10.0
   - filelock==3.4.0
   - frozenlist==1.2.0
   - hexbytes==0.2.2
@@ -61,6 +59,5 @@ dependencies:
   - urllib3==1.26.8
   - varint==1.0.2
   - virtualenv-clone==0.5.7
-  - web3==5.26.0
   - websockets==9.1
   - yarl==1.7.2
